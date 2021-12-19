@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    #83b5ff,
+    #00cfff,
+    #00e4e8,
+    #00ee92,
+    #a8eb12
+  );
+}
